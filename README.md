@@ -1,8 +1,6 @@
 # JT Houk -- @HoukasaurusRex
 
-My name is JT and I make software for a living. Currently I live in Beijing where I operate the Akkadu
-
-livestream interpretation platform.
+My name is JT and I make software for a living. Currently I live in Beijing where I operate the [Akkadu livestream interpretation](https://akkadu.com) platform.
 
 In addition to my professional work, I also produce a lot of open source software (mostly tools I develop for myself that I find might be useful for others as well), and contribute to a few open source projects.
 
@@ -10,10 +8,10 @@ Node.js is my bread and butter, and on the front end my tool of choice is always
 
 ## My Values
 
-* Growth Mindsets
-* Positive Working Environments
-* Beginner's Curiosity and Old Hat's Patience
-* Trust and Cooperative Environments
+📈 Growth Mindsets
+➕ Positive Working Environments
+🐣 Beginner's Curiosity and Old Hat's Patience
+🤝 Trust and Cooperative Environments
 
 ## How I Work
 
@@ -28,7 +26,6 @@ I'm motivated by curiosity and positive impacts on the world. Working with new t
 * Docker
 * TCP/IP
 * Websockets
-* VoIP
 
 ## What I'm Excited About Learning in 2020
 
