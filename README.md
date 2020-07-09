@@ -1,10 +1,6 @@
 # JT Houk -- @HoukasaurusRex
 
-My name is JT and I make software for a living. Currently I live in Beijing where I operate the [Akkadu livestream interpretation](https://akkadu.com) platform.
-
-In addition to my professional work, I also produce a lot of open source software (mostly tools I develop for myself that I find might be useful for others as well), and contribute to a few open source projects.
-
-Node.js is my bread and butter, and on the front end my tool of choice is always Vue.js (including for this site). I'm also proficient in many other languages, operating systems, cloud providers, and frameworks such as Python, React, Shell Scripting, Linux, AWS, GCP, Azure, etc.
+Hi, I'm JT -- software developer in Beijing operating the [Akkadu livestream interpretation](https://akkadu.com) platform, coordinating events with [Vue Beijing](https://twitter.com/beijing_vue), and GM-ing adventurers in D&D 🐲.
 
 ## My Values
 
