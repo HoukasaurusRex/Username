@@ -5,8 +5,11 @@ Hi, I'm JT -- software developer in Beijing operating the [Akkadu livestream int
 ## My Values
 
 📈 Growth Mindsets
+
 ➕ Positive Working Environments
+
 🐣 Beginner's Curiosity and Old Hat's Patience
+
 🤝 Trust and Cooperative Environments
 
 ## How I Work
