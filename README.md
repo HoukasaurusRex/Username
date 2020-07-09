@@ -8,7 +8,7 @@ Hi, I'm JT -- software developer in Beijing operating the [Akkadu livestream int
 
 ➕ Positive Working Environments
 
-🐣 Beginner's Curiosity and Old Hat's Patience
+🐣 A Beginner's Curiosity with an Old Hat's Patience
 
 🤝 Trust and Cooperative Environments
 
