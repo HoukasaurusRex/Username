@@ -10,7 +10,7 @@ Hi, I'm JT -- software developer in Beijing operating the [Akkadu livestream int
 
 🐣 A Beginner's Curiosity with an Old Hat's Patience
 
-🤝 Trust and Cooperative Environments
+🤝 Trust and Cooperation among Devs and BD alike
 
 ## How I Work
 
