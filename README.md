@@ -1,6 +1,6 @@
 # JT Houk -- @HoukasaurusRex
 
-<img src="assets/lofi-hiphop-beats.gif" alt="lofi hiphop beats to study/relax to" align="right" width="50%">
+<img src="assets/lofi-hiphop-beats.gif" align="right" width="50%">
 
 Hi, I'm JT -- software developer in Beijing operating the [Akkadu livestream interpretation](https://akkadu.com) platform, coordinating events with [Vue Beijing](https://twitter.com/beijing_vue), and GM-ing adventurers in D&D 🐲.
 
