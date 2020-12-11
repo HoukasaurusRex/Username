@@ -2,25 +2,28 @@
 
 <img src="https://raw.githubusercontent.com/HoukasaurusRex/HoukasaurusRex/master/assets/lofi-hiphop-beats.gif" align="right" width="50%">
 
-Hi, I'm JT -- software developer in Beijing operating the [Akkadu livestream interpretation](https://akkadu.com) platform, coordinating events with [Vue Beijing](https://twitter.com/beijing_vue), and GM-ing adventurers in D&D 🐲.
+Hi, I'm JT -- software engineer and cloud developer in Beijing. When I'm not developing software, I'm coordinating events with [Vue Beijing](https://twitter.com/beijing_vue), writing on [my blog](https://jt.houk.space), or GM-ing adventurers in D&D 🐲.
 
 ## My Values
 
-📈 Growth Mindsets
+📈 Growth mindsets
 
-➕ Positive Working Environments
+➕ Positive working environments
 
-🐣 A Beginner's Curiosity with an Old Hat's Patience
+👏 Product ownership
 
-🤝 Trust and Cooperation among Devs and BD alike
+🤝 Trust and cooperation among team members
 
 ## How I Work
 
-I'm motivated by curiosity and positive impacts on the world. Working with new technologies is something I can't resist. I hope to master a few languages, human and computer, but also play with a great many others. I also believe companies of all sizes have more responsibility to creating positive change in the world, and I would like to be a part of that development in humanity. I care most about contributing to environmental change, protecting basic human rights, and promoting the accessibility of the web and its vast network of knowledge to all of humankind.
+I'm motivated by challenging work and care deeply about having a positive impact on those around me. I get excited about new technologies and frameworks, but I also hope to master a few languages, human and computer in my lifetime. I believe companies of all sizes have a responsibility to promote positive change in their industries and I would like to be a part of bringing that about.
 
 ## What I'm Confident In
 
-* JavaScript/Node.js
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoukasaurusRex&layout=compact&theme=radical" align="right" width="350">
+
+* JS/TS
+* Node.js
 * Vue.js
 * UX/UI
 * AWS Services
@@ -28,17 +31,24 @@ I'm motivated by curiosity and positive impacts on the world. Working with new t
 * TCP/IP
 * Websockets
 
-## What I'm Excited About Learning in 2020
+## What I'm Excited About Learning in 2021
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HoukasaurusRex&theme=radical" align="right" width="350">
 
 * Rust
+* WASM
 * Python
 * Go
 * Deno
-* Typescript
 * D3
 
 ## Get in Touch
 
-* Twitter: [@HoukasaurusRex](https://twitter.com/HoukasaurusRex)
-* LinkedIn: [JT Houk](https://www.linkedin.com/in/jt-houk/)
-* Personal Site: [jt.houk.space](https://jt.houk.space/about/)
+<img src="assets/twitter-square-brands.svg" alt="" height="25" align="center"> Twitter: [@HoukasaurusRex](https://twitter.com/HoukasaurusRex)
+
+<img src="assets/linkedin-brands.svg" alt="" height="25" align="center">  LinkedIn: [JT Houk](https://www.linkedin.com/in/jt-houk/)
+
+<img src="assets/paint-brush-solid.svg" alt="" height="25" align="center">  Personal Site: [jt.houk.space](https://jt.houk.space/about/)
+
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=HoukasaurusRex&show_icons=true&theme=radical" width="55%"> -->
