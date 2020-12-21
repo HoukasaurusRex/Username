@@ -1,8 +1,8 @@
 # JT Houk -- @HoukasaurusRex
 
-<figure>
-  <img src="/assets/lofi-hiphop-beats.gif" alt="LoFi beats girl studying" align="right" width="50%">
-  <figcaption align="right" width="50%">Image credit to J.P. Machado of ChilledCow via YouTube</figcaption>
+<figure style="float: right; display: flex; flex-direction: column; width: 50%;">
+    <img src="assets/lofi-hiphop-beats.gif" alt="LoFi beats girl studying">
+    <figcaption >Image credit to J.P. Machado of ChilledCow via <a href="https://www.youtube.com/watch?v=5qap5aO4i9A" target="_blank">YouTube</a></figcaption>
 </figure>
 
 Hi, I'm JT -- software engineer and cloud developer in Beijing. When I'm not developing software, I'm coordinating events with [Vue Beijing](https://twitter.com/beijing_vue), writing on [my blog](https://jt.houk.space), or GM-ing adventurers in D&D 🐲.
@@ -23,7 +23,9 @@ I'm motivated by challenging work and care deeply about having a positive impact
 
 ## What I'm Confident In
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoukasaurusRex&layout=compact&theme=radical" align="right" width="350">
+<a href="https://wakatime.com/@HoukasaurusRex" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoukasaurusRex&layout=compact&theme=radical" align="right" width="350">
+</a>
 
 * JS/TS
 * Node.js
@@ -36,7 +38,9 @@ I'm motivated by challenging work and care deeply about having a positive impact
 
 ## What I'm Excited About Learning in 2021
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HoukasaurusRex&theme=radical" align="right" width="350">
+<a href="https://wakatime.com/@HoukasaurusRex" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HoukasaurusRex&theme=radical" align="right" width="350">
+</a>
 
 * Rust
 * WASM
@@ -44,6 +48,7 @@ I'm motivated by challenging work and care deeply about having a positive impact
 * Go
 * Deno
 * D3
+* IoT
 
 ## Get in Touch
 
