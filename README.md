@@ -1,9 +1,6 @@
 # JT Houk -- @HoukasaurusRex
 
-<p style="float: right; display: flex; flex-direction: column; width: 50%;">
-    <img src="assets/lofi-hiphop-beats.gif" alt="LoFi beats girl studying">
-    Image credit to J.P. Machado of ChilledCow via <a href="https://www.youtube.com/watch?v=5qap5aO4i9A" target="_blank">YouTube</a>
-</p>
+<img src="assets/lofi-hiphop-beats.gif" alt="Image credit to J.P. Machado of ChilledCow" align="right" width="50%">
 
 Hi, I'm JT -- software engineer and cloud developer in Beijing. When I'm not developing software, I'm coordinating events with [Vue Beijing](https://twitter.com/beijing_vue), writing on [my blog](https://jt.houk.space), or GM-ing adventurers in D&D 🐲.
 
