@@ -1,8 +1,7 @@
 # JT Houk -- @HoukasaurusRex
 
-<!-- <img src="https://raw.githubusercontent.com/HoukasaurusRex/HoukasaurusRex/master/assets/lofi-hiphop-beats.gif" align="right" width="50%"> -->
-<figure align="right" width="50%">
-  <img src="/assets/lofi-hiphop-beats.gif" alt="LoFi beats girl studying">
+<figure>
+  <img src="/assets/lofi-hiphop-beats.gif" alt="LoFi beats girl studying" align="right" width="50%">
   <figcaption>Image credit to J.P. Machado of ChilledCow via YouTube</figcaption>
 </figure>
 
