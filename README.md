@@ -2,7 +2,7 @@
 
 <figure>
   <img src="/assets/lofi-hiphop-beats.gif" alt="LoFi beats girl studying" align="right" width="50%">
-  <figcaption>Image credit to J.P. Machado of ChilledCow via YouTube</figcaption>
+  <figcaption align="right" width="50%">Image credit to J.P. Machado of ChilledCow via YouTube</figcaption>
 </figure>
 
 Hi, I'm JT -- software engineer and cloud developer in Beijing. When I'm not developing software, I'm coordinating events with [Vue Beijing](https://twitter.com/beijing_vue), writing on [my blog](https://jt.houk.space), or GM-ing adventurers in D&D 🐲.
