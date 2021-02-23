@@ -1,6 +1,11 @@
-# JT Houk -- @HoukasaurusRex
+# JT Houk -- @HoukasaurusRex [![](https://sourcerer.io/icons/logo-sharing.svg)](https://sourcerer.io/houkasaurusrex)
 
-<img src="assets/lofi-hiphop-beats.gif" alt="LoFi girl studying by window. Image credit to J.P. Machado of ChilledCow" align="right" width="50%">
+[![](https://img.shields.io/badge/JavaScript-875%20commits-yellow.svg)](https://sourcerer.io/houkasaurusrex)
+[![](https://img.shields.io/badge/TypeScript-34%20commits-blue.svg)](https://sourcerer.io/houkasaurusrex)
+[![](https://img.shields.io/badge/Python-22%20commits-green.svg)](https://sourcerer.io/houkasaurusrex)
+[![](https://img.shields.io/badge/Shell-121%20commits-grey.svg)](https://sourcerer.io/houkasaurusrex)
+
+<img src="assets/8bitme.gif" alt="" align="right" width="300px">
 
 Hi, I'm JT -- software engineer and cloud developer in Beijing. When I'm not developing software, I'm coordinating events with [Vue Beijing](https://twitter.com/beijing_vue), writing on [my blog](https://jt.houk.space), or GM-ing adventurers in D&D 🐲.
 
