@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Python-22%20commits-green.svg)](https://sourcerer.io/houkasaurusrex)
 [![](https://img.shields.io/badge/Shell-121%20commits-grey.svg)](https://sourcerer.io/houkasaurusrex)
 
-<img src="assets/8bitme.gif" alt="" align="right" width="300px">
+<img src="https://raw.githubusercontent.com/HoukasaurusRex/HoukasaurusRex/master/assets/8bitme.gif" alt="" align="right" width="300px">
 
 Hi, I'm JT -- software engineer and cloud developer in Beijing. When I'm not developing software, I'm coordinating events with [Vue Beijing](https://twitter.com/beijing_vue), writing on [my blog](https://jt.houk.space), or GM-ing adventurers in D&D 🐲.
 
@@ -54,11 +54,11 @@ I'm motivated by challenging work and care deeply about having a positive impact
 
 ## Get in Touch
 
-<img src="assets/twitter-square-brands.svg" alt="" height="25" align="center"> Twitter: [@HoukasaurusRex](https://twitter.com/HoukasaurusRex)
+<img src="https://raw.githubusercontent.com/HoukasaurusRex/HoukasaurusRex/master/assets/twitter-square-brands.svg" alt="" height="25" align="center"> Twitter: [@HoukasaurusRex](https://twitter.com/HoukasaurusRex)
 
-<img src="assets/linkedin-brands.svg" alt="" height="25" align="center">  LinkedIn: [JT Houk](https://www.linkedin.com/in/jt-houk/)
+<img src="https://raw.githubusercontent.com/HoukasaurusRex/HoukasaurusRex/master/assets/linkedin-brands.svg" alt="" height="25" align="center">  LinkedIn: [JT Houk](https://www.linkedin.com/in/jt-houk/)
 
-<img src="assets/paint-brush-solid.svg" alt="" height="25" align="center">  Personal Site: [jt.houk.space](https://jt.houk.space/about/)
+<img src="https://raw.githubusercontent.com/HoukasaurusRex/HoukasaurusRex/master/assets/paint-brush-solid.svg" alt="" height="25" align="center">  Personal Site: [jt.houk.space](https://jt.houk.space/about/)
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=HoukasaurusRex&show_icons=true&theme=radical" width="55%"> -->
