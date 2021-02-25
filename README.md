@@ -1,4 +1,4 @@
-# JT Houk -- @HoukasaurusRex [![](https://sourcerer.io/icons/logo-sharing.svg)](https://sourcerer.io/houkasaurusrex)
+# JT Houk -- @HoukasaurusRex
 
 [![](https://img.shields.io/badge/JavaScript-875%20commits-yellow.svg)](https://sourcerer.io/houkasaurusrex)
 [![](https://img.shields.io/badge/TypeScript-34%20commits-blue.svg)](https://sourcerer.io/houkasaurusrex)
