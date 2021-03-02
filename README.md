@@ -5,7 +5,8 @@
 [![](https://img.shields.io/badge/Python-22%20commits-green.svg)](https://profile.codersrank.io/user/houkasaurusrex)
 [![](https://img.shields.io/badge/Shell-121%20commits-grey.svg)](https://profile.codersrank.io/user/houkasaurusrex)
 
-[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=houkasaurusrex&badges=4&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px)](https://profile.codersrank.io/user/houkasaurusrex)
+[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=houkasaurusrex&badges=4&show-avatar=true&branding=false&width=500&style=--header-bg-color:%23000;--border-radius:10px)](https://profile.codersrank.io/user/houkasaurusrex)
+
 
 <img src="https://raw.githubusercontent.com/HoukasaurusRex/HoukasaurusRex/master/assets/8bitme.gif" alt="" align="right" width="300px">
 
@@ -62,5 +63,4 @@ I'm motivated by challenging work and care deeply about having a positive impact
 
 <img src="https://raw.githubusercontent.com/HoukasaurusRex/HoukasaurusRex/master/assets/paint-brush-solid.svg" alt="" height="25" align="center">  Personal Site: [jt.houk.space](https://jt.houk.space/about/)
 
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=HoukasaurusRex&show_icons=true&theme=radical" width="55%"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=HoukasaurusRex&count_private=true&show_icons=true&theme=radical" width="350" align="right">
