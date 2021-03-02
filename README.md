@@ -1,9 +1,11 @@
 # JT Houk -- @HoukasaurusRex
 
-[![](https://img.shields.io/badge/JavaScript-875%20commits-yellow.svg)](https://sourcerer.io/houkasaurusrex)
-[![](https://img.shields.io/badge/TypeScript-34%20commits-blue.svg)](https://sourcerer.io/houkasaurusrex)
-[![](https://img.shields.io/badge/Python-22%20commits-green.svg)](https://sourcerer.io/houkasaurusrex)
-[![](https://img.shields.io/badge/Shell-121%20commits-grey.svg)](https://sourcerer.io/houkasaurusrex)
+[![](https://img.shields.io/badge/JavaScript-875%20commits-yellow.svg)](https://profile.codersrank.io/user/houkasaurusrex)
+[![](https://img.shields.io/badge/TypeScript-34%20commits-blue.svg)](https://profile.codersrank.io/user/houkasaurusrex)
+[![](https://img.shields.io/badge/Python-22%20commits-green.svg)](https://profile.codersrank.io/user/houkasaurusrex)
+[![](https://img.shields.io/badge/Shell-121%20commits-grey.svg)](https://profile.codersrank.io/user/houkasaurusrex)
+
+[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=houkasaurusrex&badges=4&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px)](https://profile.codersrank.io/user/houkasaurusrex)
 
 <img src="https://raw.githubusercontent.com/HoukasaurusRex/HoukasaurusRex/master/assets/8bitme.gif" alt="" align="right" width="300px">
 
