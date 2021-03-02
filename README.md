@@ -5,10 +5,9 @@
 [![](https://img.shields.io/badge/Python-22%20commits-green.svg)](https://profile.codersrank.io/user/houkasaurusrex)
 [![](https://img.shields.io/badge/Shell-121%20commits-grey.svg)](https://profile.codersrank.io/user/houkasaurusrex)
 
-[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=houkasaurusrex&badges=4&show-avatar=true&branding=false&width=500&style=--header-bg-color:%23000;--border-radius:10px)](https://profile.codersrank.io/user/houkasaurusrex)
+[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=houkasaurusrex&badges=4&show-avatar=true&branding=false&style=--header-bg-color:%23000;--border-radius:10px)](https://profile.codersrank.io/user/houkasaurusrex)
 
-
-<img src="https://raw.githubusercontent.com/HoukasaurusRex/HoukasaurusRex/master/assets/8bitme.gif" alt="" align="right" width="300px">
+<img src="https://raw.githubusercontent.com/HoukasaurusRex/HoukasaurusRex/master/assets/8bitme.gif" alt="" align="right" width="300">
 
 Hi, I'm JT -- software engineer and cloud developer in Beijing. When I'm not developing software, I'm coordinating events with [Vue Beijing](https://twitter.com/beijing_vue), writing on [my blog](https://jt.houk.space), or GM-ing adventurers in D&D 🐲.
 
