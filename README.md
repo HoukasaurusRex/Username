@@ -5,7 +5,9 @@
 [![](https://img.shields.io/badge/Python-22%20commits-green.svg)](https://profile.codersrank.io/user/houkasaurusrex)
 [![](https://img.shields.io/badge/Shell-121%20commits-grey.svg)](https://profile.codersrank.io/user/houkasaurusrex)
 
-[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=houkasaurusrex&badges=4&show-avatar=true&branding=false&style=--header-bg-color:%23000;--border-radius:10px)](https://profile.codersrank.io/user/houkasaurusrex)
+<a href="https://profile.codersrank.io/user/houkasaurusrex" target="_blank">
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=houkasaurusrex&badges=4&show-avatar=true&branding=false&style=--header-bg-color:%23000;--border-radius:10px" alt="" width="350">
+</a>
 
 <img src="https://raw.githubusercontent.com/HoukasaurusRex/HoukasaurusRex/master/assets/8bitme.gif" alt="" align="right" width="300">
 
@@ -27,9 +29,11 @@ I'm motivated by challenging work and care deeply about having a positive impact
 
 ## What I'm Confident In
 
-<a href="https://wakatime.com/@HoukasaurusRex" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoukasaurusRex&layout=compact&theme=radical" align="right" width="350">
+<a href="https://github.com/HoukasaurusRex?tab=repositories" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=HoukasaurusRex&count_private=true&show_icons=true&theme=radical" width="350" align="right">
 </a>
+
+
 
 * JS/TS
 * Node.js
@@ -43,7 +47,7 @@ I'm motivated by challenging work and care deeply about having a positive impact
 ## What I'm Excited About Learning in 2021
 
 <a href="https://wakatime.com/@HoukasaurusRex" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HoukasaurusRex&theme=radical" align="right" width="350">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoukasaurusRex&layout=compact&theme=radical" align="right" width="350">
 </a>
 
 * Rust
@@ -61,5 +65,3 @@ I'm motivated by challenging work and care deeply about having a positive impact
 <img src="https://raw.githubusercontent.com/HoukasaurusRex/HoukasaurusRex/master/assets/linkedin-brands.svg" alt="" height="25" align="center">  LinkedIn: [JT Houk](https://www.linkedin.com/in/jt-houk/)
 
 <img src="https://raw.githubusercontent.com/HoukasaurusRex/HoukasaurusRex/master/assets/paint-brush-solid.svg" alt="" height="25" align="center">  Personal Site: [jt.houk.space](https://jt.houk.space/about/)
-
-<img src="https://github-readme-stats.vercel.app/api?username=HoukasaurusRex&count_private=true&show_icons=true&theme=radical" width="350" align="right">
