@@ -1,0 +1,30 @@
+.typewriter {
+  position: relative;
+  top: 50%;  
+  width: 7em;
+  margin: 0 auto;
+  border-right: 2px solid var(--text-color-75);
+  font-size: 180%;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  transform: translateY(-50%);    
+  animation: typewriter 1s steps(14) 1s 1 normal both,
+            blinkTextCursor 800ms steps(24) infinite normal;
+}
+@keyframes typewriter {
+  from {
+    width: 0;
+  }
+  to {
+    width: 7em;
+  }
+}
+@keyframes blinkTextCursor {
+  from{
+    border-right-color: var(--text-color-75);
+  }
+  to {
+    border-right-color: transparent;
+  }
+}

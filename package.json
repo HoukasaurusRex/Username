@@ -1,0 +1,26 @@
+{
+  "name": "houkasaurusrex",
+  "version": "1.0.0",
+  "description": "Personal landing page, front end site, and cms backend",
+  "main": "index.js",
+  "private": true,
+  "workspaces": [
+    "jt.houk.space"
+  ],
+  "scripts": {
+    "dev": "yarn --cwd jt.houk.space dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoukasaurusRex/HoukasaurusRex.git"
+  },
+  "keywords": [
+    "vitepress"
+  ],
+  "author": "JT Houk <jt@houk.space> (https://jt.houk.space/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HoukasaurusRex/HoukasaurusRex/issues"
+  },
+  "homepage": "https://jt.houk.space"
+}

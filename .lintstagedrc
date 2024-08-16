@@ -1,0 +1,12 @@
+{
+  "linters": {
+    "*.{js}": [
+      "yarn lint",
+      "git add"
+    ]
+  },
+  "ignore": [
+    "node_modules/",
+    "dist/"
+  ]
+}

@@ -1,0 +1,32 @@
+/* Text Bounce Animation */
+@keyframes bounce
+  50%
+    letter-spacing 5rem
+
+  70%
+    font-stretch 150%
+    font-weight 700
+    transform translateX(0)
+
+  80%
+    letter-spacing -0.5rem
+    font-stretch 1%
+    font-weight 300
+    transform translateX(-0.2rem)
+
+  90%
+    letter-spacing 2rem
+    font-stretch 200%
+    font-weight 700
+    transform translateX(0)
+
+/* Text Base Style */
+.bounce-letters-font
+  font-family "Gingham Variable"
+  font-weight 700
+	font-stretch 150%
+  letter-spacing normal
+.bounce-letters-animation
+  &:hover
+    animation 0.5s ease-in-out bounce 0.2s
+    animation-iteration-count: 1

@@ -1,0 +1,23 @@
+:root {
+  --accent-color: hsla(327, 76%, 64%, 1);
+  --background-color: hsla(0, 0%, 94%, 1);
+  --foreground-color: hsla(0, 0%, 97%, 1);
+  --red: hsl(327, 70%, 75%);
+  --green: hsl(83, 70%, 75%);
+  --blue: hsl(202, 70%, 75%);
+  --text-color: hsla(180, 33%, 10%, 1);
+  --text-color-75: hsla(180, 33%, 10%, 0.75);
+}
+
+// Dark theme colors
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: hsl(0, 0%, 10%);
+    --foreground-color: hsl(0, 0%, 13%);
+    --text-color: hsla(0, 0%, 90%, 1);
+    --text-color-75: hsla(0, 0%, 90%, 0.75);
+    --red: hsl(327, 70%, 75%);
+    --green: hsl(83, 70%, 75%);
+    --blue: hsl(202, 70%, 75%);
+  }
+}
